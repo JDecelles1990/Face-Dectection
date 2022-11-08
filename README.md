@@ -1,2 +1,1 @@
-# Face-Dectection
-OpenCV [Computer Vision]
+"# faceDetect" 
